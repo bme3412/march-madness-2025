@@ -1,0 +1,64 @@
+Round,Winner,Winner_Seed,Team1,Seed1,Team2,Seed2,Region
+Round of 64,Auburn,1,Auburn,1,ALST/SFPA,16,SOUTH
+Round of 64,Louisville,8,Louisville,8,Creighton,9,SOUTH
+Round of 64,Michigan,5,Michigan,5,UC San Diego,12,SOUTH
+Round of 64,Texas A&M,4,Texas A&M,4,Yale,13,SOUTH
+Round of 64,Mississippi,6,Ole Miss,6,SDSU/UNC,11,SOUTH
+Round of 64,Iowa State,3,Iowa State,3,Lipscomb,14,SOUTH
+Round of 64,Marquette,7,Marquette,7,New Mexico,10,SOUTH
+Round of 64,Michigan State,2,Michigan St,2,Bryant,15,SOUTH
+Round of 64,Florida,1,Florida,1,Norfolk St,16,WEST
+Round of 64,Connecticut,8,UConn,8,Oklahoma,9,WEST
+Round of 64,Memphis,5,Memphis,5,Colorado St,12,WEST
+Round of 64,Maryland,4,Maryland,4,Grand Canyon,13,WEST
+Round of 64,Missouri,6,Missouri,6,Drake,11,WEST
+Round of 64,Texas Tech,3,Texas Tech,3,UNC Wilmington,14,WEST
+Round of 64,Kansas,7,Kansas,7,Arkansas,10,WEST
+Round of 64,St. John's (NY),2,St John's,2,Omaha,15,WEST
+Round of 64,Duke,1,Duke,1,AMER/MSM,16,EAST
+Round of 64,Mississippi State,8,Mississippi St,8,Baylor,9,EAST
+Round of 64,Oregon,5,Oregon,5,Liberty,12,EAST
+Round of 64,Arizona,4,Arizona,4,Akron,13,EAST
+Round of 64,BYU,6,BYU,6,VCU,11,EAST
+Round of 64,Wisconsin,3,Wisconsin,3,Montana,14,EAST
+Round of 64,Mount St. Mary's,7,Saint Mary's,7,Vanderbilt,10,EAST
+Round of 64,Alabama,2,Alabama,2,Robert Morris,15,EAST
+Round of 64,Houston,1,Houston,1,SIUE,16,MIDWEST
+Round of 64,Gonzaga,8,Gonzaga,8,Georgia,9,MIDWEST
+Round of 64,Clemson,5,Clemson,5,McNeese,12,MIDWEST
+Round of 64,Purdue,4,Purdue,4,High Point,13,MIDWEST
+Round of 64,Illinois,6,Illinois,6,TEX/XAV,11,MIDWEST
+Round of 64,Kentucky,3,Kentucky,3,Troy,14,MIDWEST
+Round of 64,UCLA,7,UCLA,7,Utah State,10,MIDWEST
+Round of 64,Tennessee,2,Tennessee,2,Wofford,15,MIDWEST
+Round of 32,Auburn,1,Auburn,1,Louisville,8,SOUTH
+Round of 32,Michigan,5,Michigan,5,Texas A&M,4,SOUTH
+Round of 32,Iowa State,3,Mississippi,6,Iowa State,3,SOUTH
+Round of 32,Michigan State,2,Marquette,7,Michigan State,2,SOUTH
+Round of 32,Florida,1,Florida,1,Connecticut,8,WEST
+Round of 32,Memphis,5,Memphis,5,Maryland,4,WEST
+Round of 32,Texas Tech,3,Missouri,6,Texas Tech,3,WEST
+Round of 32,St. John's (NY),2,Kansas,7,St. John's (NY),2,WEST
+Round of 32,Duke,1,Duke,1,Mississippi State,8,EAST
+Round of 32,Arizona,4,Oregon,5,Arizona,4,EAST
+Round of 32,Wisconsin,3,BYU,6,Wisconsin,3,EAST
+Round of 32,Alabama,2,Mount St. Mary's,7,Alabama,2,EAST
+Round of 32,Houston,1,Houston,1,Gonzaga,8,MIDWEST
+Round of 32,Clemson,5,Clemson,5,Purdue,4,MIDWEST
+Round of 32,Kentucky,3,Illinois,6,Kentucky,3,MIDWEST
+Round of 32,Tennessee,2,UCLA,7,Tennessee,2,MIDWEST
+Sweet 16,Auburn,1,Auburn,1,Michigan,5,SOUTH
+Sweet 16,Michigan State,2,Iowa State,3,Michigan State,2,SOUTH
+Sweet 16,Florida,1,Florida,1,Memphis,5,WEST
+Sweet 16,Texas Tech,3,Texas Tech,3,St. John's (NY),2,WEST
+Sweet 16,Duke,1,Duke,1,Arizona,4,EAST
+Sweet 16,Alabama,2,Wisconsin,3,Alabama,2,EAST
+Sweet 16,Houston,1,Houston,1,Clemson,5,MIDWEST
+Sweet 16,Tennessee,2,Kentucky,3,Tennessee,2,MIDWEST
+Elite 8,Auburn,1,Auburn,1,Michigan State,2,SOUTH
+Elite 8,Florida,1,Florida,1,Texas Tech,3,WEST
+Elite 8,Duke,1,Duke,1,Alabama,2,EAST
+Elite 8,Houston,1,Houston,1,Tennessee,2,MIDWEST
+Final 4,Florida,1,Auburn,1,Florida,1,SOUTH vs WEST
+Final 4,Duke,1,Duke,1,Houston,1,EAST vs MIDWEST
+Championship,Duke,1,Florida,1,Duke,1,Championship

@@ -1,0 +1,39 @@
+SOUTH REGION
+1 Auburn vs 16 ALST/SFPA
+8 Louisville vs 9 Creighton
+5 Michigan vs 12 UC San Diego
+4 Texas A&M vs 13 Yale
+6 Ole Miss vs 11 SDSU/UNC
+3 Iowa State vs 14 Lipscomb
+7 Marquette vs 10 New Mexico
+2 Michigan St vs 15 Bryant
+
+WEST REGION
+1 Florida vs 16 Norfolk St
+8 UConn vs 9 Oklahoma
+5 Memphis vs 12 Colorado St
+4 Maryland vs 13 Grand Canyon
+6 Missouri vs 11 Drake
+3 Texas Tech vs 14 UNC Wilmington
+7 Kansas vs 10 Arkansas
+2 St John's vs 15 Omaha
+
+EAST REGION
+1 Duke vs 16 AMER/MSM
+8 Mississippi St vs 9 Baylor
+5 Oregon vs 12 Liberty
+4 Arizona vs 13 Akron
+6 BYU vs 11 VCU
+3 Wisconsin vs 14 Montana
+7 Saint Mary's vs 10 Vanderbilt
+2 Alabama vs 15 Robert Morris
+
+MIDWEST REGION
+1 Houston vs 16 SIUE
+8 Gonzaga vs 9 Georgia
+5 Clemson vs 12 McNeese
+4 Purdue vs 13 High Point
+6 Illinois vs 11 TEX/XAV
+3 Kentucky vs 14 Troy
+7 UCLA vs 10 Utah State
+2 Tennessee vs 15 Wofford
